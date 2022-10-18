@@ -11,3 +11,4 @@ while fib <= maxfib:
         print(fib)
     fib1 = fib2
     fib2 = fib
+# des geht ned
